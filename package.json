@@ -1,0 +1,28 @@
+{
+  "name": "expo_pdm_2025.1",
+  "version": "1.0.0",
+  "description": "📱 Programação para Dispositivos Móveis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanessa867/expo_PDM_2025.1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vanessa867/expo_PDM_2025.1/issues"
+  },
+  "homepage": "https://github.com/Vanessa867/expo_PDM_2025.1#readme",
+  "dependencies": {
+    "expo": "^52.0.35"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "~18.3.12"
+  }
+}
